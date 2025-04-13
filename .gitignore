@@ -1,6 +1,10 @@
 .DS_Store
 /node_modules/
+bun.lock
 
 # React Router
 /.react-router/
 /build/
+
+# Electron
+/dist-electron/
